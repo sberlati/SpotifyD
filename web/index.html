@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="SpotifyD te permite descargar playlists de Spotify en formato MP3.">
+		<meta name="keywords" content="spotify, playlists, listas, de, reproduccion, descarga, mp3, free, gratis, download">
+		<meta name="author" content="Sebastián Berlati">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/spotifyd.css" rel="stylesheet">
+		<title>SpotifyD - Descarga playlists a MP3</title>
+	</head>
+	<body>
+		<div class="container logo-container"></div>
+		<div class="container main">
+			<h3><strong>Tus playlists, más allá de Spotify</strong></h3>
+			<span>
+				<strong>SpotifyD</strong> es una aplicación de escritorio que te permite descargar en formato MP3 cualquier playlist que tengas en tu cuenta de Spotify.
+				Basta con ingresar tu ID de Spotify, seleccionar la playlist deseada, elegir dónde guardarlo, y presionar el botón de comienzo.
+			</span>
+
+			<h3><strong>Requerimientos y descarga</strong></h3>
+			<span>Requerimientos:</span>
+				<ul>
+					<li>Sistema operativo Windows</li>
+					<li>.NET Framework 4 o superior</li>
+				</ul>
+
+			<span>Descarga:</span>
+			<span class="clearfix download-content">
+				Éste proyecto junto con su código fuente <i>(y hasta esta página web)</i> se encuentra alojado en <a href="https://www.github.com" target"_blank">GitHub</a>. 
+				Si te intriga su functionamiento puedes acceder al repositorio y ver el código. En caso de querer descargarlo, dirígete al apartado "Releases" para obtener 
+				el binario de la última versión que salió de <strong>SpotifyD</strong>.
+			</span>
+
+			<a href="https://github.com/sberlati/SpotifyD/releases" class="btn btn-primary btn-lg btn-block">Descargar la última versión</a>
+			<a href="https://github.com/sberlati/SpotifyD/" class="btn btn-default btn-lg btn-block">Ir al repositorio</a>
+
+			<h3><strong>Preguntas Frecuentes</strong></h3>
+			<ol>
+				<li>¿Qué es esto?</li>
+				<span>Una aplicación de escritorio para Windows que descarga playlists públicas de Spotify en MP3.</span>
+				<li>¿Tengo que pagar para utilizarla?</li>
+				<span>NO. Esta aplicación es de libre uso y distribución.</span>
+				<li>¿Qué datos de mi cuenta de Spotify usan?</li>
+				<span>Para poder buscar tus playlists solicitamos tu ID de Spotify, la cual se usa para que la API brindada por Spotify pueda brindar tus playlists <strong>públicas</strong>. Ningún dato sensible pasa por nuestras manos.</span>
+				<li>¿Cómo descargan las canciones?</li>
+				<span>En realidad no se descargan desde los servidores de Spotify, más bien de los de YouTube. Tomamos cada canción de tu playlist, y buscamos el resultado más adecuado en YouTube, teniendo en cuenta ciertos filtros para poder obtener la mejor versión de cada canción.</span>
+				<li>¿Qué calidad de sonido tienen los audios?</li>
+				<span>Varía dependiendo de la calidad del sonido que tenga el vídeo de YouTube.</span>
+				<li>¿También descargan el vídeo?</li>
+				<span>No. Solo descargamos el sonido de cada vídeo.</span>
+			</ol>
+		</div>
+
+			<footer>
+				Programado con <span class="corazon">♥</span> en Argentina.	
+			</footer>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	</body>
+</html>
