@@ -3,6 +3,9 @@ namespace SpotifyD.App.YouTube
 {
     class VideoModel
     {
+        /// <summary>
+        /// Clase modelo para la entidad "Video".
+        /// </summary>
         private string id;
         private string name;
         private string uri;

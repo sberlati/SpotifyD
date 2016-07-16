@@ -9,6 +9,9 @@ namespace SpotifyD.App.Spotify
 {
     class TrackModel
     {
+        /// <summary>
+        /// Clase modelo para la entidad "Track".
+        /// </summary>
         private string name;
         private List<SimpleArtist> artists;
 

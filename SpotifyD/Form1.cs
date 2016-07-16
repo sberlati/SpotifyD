@@ -57,5 +57,13 @@ namespace SpotifyD
             */
             f.startDownloads(userId.Text, playlistSelect.SelectedItem.ToString(), actualFolder.Text);
         }
+
+        /*
+            Minimiza el formulario
+        */
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
     }
 }

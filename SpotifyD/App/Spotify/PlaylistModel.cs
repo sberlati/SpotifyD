@@ -5,6 +5,9 @@ namespace SpotifyD.App.Spotify
 {
     class PlaylistModel
     {
+        /// <summary>
+        /// Clase modelo para la entidad "Playlist".
+        /// </summary>
         private string id;
         private string name;
         private PublicProfile owner;
