@@ -35,3 +35,40 @@ C:\Users\Sebastián\Documents\Visual Studio 2015\Projects\SpotifyD\SpotifyD\bin\
 C:\Users\Sebastián\Documents\Visual Studio 2015\Projects\SpotifyD\SpotifyD\bin\Debug\Google.Apis.YouTube.v3.xml
 C:\Users\Sebastián\Documents\Visual Studio 2015\Projects\SpotifyD\SpotifyD\bin\Debug\log4net.xml
 C:\Users\Sebastián\Documents\Visual Studio 2015\Projects\SpotifyD\SpotifyD\bin\Debug\Zlib.Portable.xml
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\SpotifyD.exe.config
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\obj\Debug\SpotifyD.exe
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\obj\Debug\SpotifyD.pdb
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\SpotifyD.exe
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\SpotifyD.pdb
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.Core.dll
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.dll
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\log4net.dll
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\SpotifyAPI.dll
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Zlib.Portable.dll
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.pdb
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.xml
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.Core.xml
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\log4net.xml
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\SpotifyAPI.xml
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\bin\Debug\Zlib.Portable.xml
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\obj\Debug\SpotifyD.csprojResolveAssemblyReference.cache
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\obj\Debug\SpotifyD.Form1.resources
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\obj\Debug\SpotifyD.Properties.Resources.resources
+C:\Users\Sebastián\Documents\GitHub\SpotifyD\SpotifyD\obj\Debug\SpotifyD.csproj.GenerateResource.Cache

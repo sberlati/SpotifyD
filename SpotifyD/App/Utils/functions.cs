@@ -3,10 +3,8 @@ using System.Collections.Generic;
 using System.Windows.Forms;
 using SpotifyD.App.YouTube;
 using SpotifyD.App.Spotify;
-using System.Net;
 using System;
-using System.Threading;
-using System.Threading.Tasks;
+using System.Net;
 using System.ComponentModel;
 
 namespace SpotifyD
